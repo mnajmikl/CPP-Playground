@@ -1,2 +1,2 @@
-# C-Playground
+# C++ Playground
 C++ Playground
